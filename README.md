@@ -17,7 +17,7 @@ Supply-Chain-Analysis
 Implemented supply chain analysis using Python, employing pandas, matplotlib, seaborn, and NumPy libraries to optimize operations. Analyzed product availability, transportation modes, defect rates, customer demographics, and pricing for improved supply chain performance. Conducted revenue and transportation cost analysis to facilitate informed decision-making and strategic planning. Presented key insights through visualizations for better understanding and actionable outcomes.
 
 ## Screenshot
-https://github.com/Karan-Chuahan-10/Supply-Chain-Analysis/tree/8e5d79dfa3eb9a201e54b83538258fe860f9831a/Graphs
+Graphs https://github.com/Karan-Chuahan-10/Supply-Chain-Analysis/tree/8e5d79dfa3eb9a201e54b83538258fe860f9831a/Graphs
 ## Technologies
 - **Jupyter Notebook:**  Used for cleaning and extracting the sentiment from the source code  
 
