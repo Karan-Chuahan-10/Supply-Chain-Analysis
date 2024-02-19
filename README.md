@@ -6,7 +6,6 @@ Supply-Chain-Analysis
 [About The Project] (#about—the—project)
 [Screenshots] (#screenshots)
 [Technologies] (#technologies)
-[Setup] (#setup)
 [Approach] (#approach)
 [Key Features] (#key features)
 [Benefits] (#benefits)
@@ -18,6 +17,7 @@ Implemented supply chain analysis using Python, employing pandas, matplotlib, se
 
 ## Screenshot
 Graphs https://github.com/Karan-Chuahan-10/Supply-Chain-Analysis/tree/8e5d79dfa3eb9a201e54b83538258fe860f9831a/Graphs
+
 ## Technologies
 - **Jupyter Notebook:**  Used for cleaning and extracting the sentiment from the source code  
 
@@ -28,7 +28,6 @@ Graphs https://github.com/Karan-Chuahan-10/Supply-Chain-Analysis/tree/8e5d79dfa3
 In this supply chain analysis project, I employed Python and libraries such as pandas, matplotlib, seaborn, and NumPy to optimize operations. By analyzing product availability, transportation modes, defect rates, customer demographics, and pricing, I aimed to improve supply chain performance. I conducted revenue and transportation cost analysis to facilitate informed decision-making and strategic planning, presenting key insights through visualizations for better understanding and actionable outcomes. Through data preprocessing, analysis, and visualization, I optimized supply chain operations, emphasizing the importance of data-driven decision-making and strategic planning for stakeholders.
 
 ## Key Features:
-
 - **Data Exploration:** Utilized pandas library to explore and manipulate large datasets containing information on product availability, defect rates, customer demographics, and more.
 - **Statistical Analysis:** Applied statistical methods and techniques to analyze supply chain data, including calculating average prices by product type and assessing revenue and transportation costs.
 - **Problem Solving:** Identified supply chain challenges and opportunities for optimization through data-driven analysis and strategic thinking.
